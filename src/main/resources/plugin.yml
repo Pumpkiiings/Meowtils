@@ -1,0 +1,21 @@
+name: Meowtils
+version: '1.0-SNAPSHOT'
+main: dev.pumpkings.Meowtils
+api-version: '1.21'
+
+commands:
+  gmc:
+    description: "Cambia tu modo a creativo"
+    usage: "/gmc"
+  gms:
+    description: "Cambia tu modo a supervivencia"
+    usage: "/gms"
+  gmsp:
+    description: "Cambia tu modo a espectador"
+    usage: "/gmsp"
+  hat:
+    usage: "/hat"
+  god:
+    usage: "/god"
+  fly:
+    usage: "/fly"
